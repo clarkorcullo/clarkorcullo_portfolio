@@ -11,7 +11,7 @@ import Resume from "./pages/Resume";
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="min-h-screen flex flex-col bg-white dark:bg-gray-900 transition-colors duration-300">
         <Navbar />
         <main className="flex-grow">
