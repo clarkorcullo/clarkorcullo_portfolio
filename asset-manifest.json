@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clarkorcullo_portfolio/static/css/main.7609dc52.css",
-    "main.js": "/clarkorcullo_portfolio/static/js/main.69158fbd.js",
+    "main.js": "/clarkorcullo_portfolio/static/js/main.15a8e96e.js",
     "index.html": "/clarkorcullo_portfolio/index.html",
     "main.7609dc52.css.map": "/clarkorcullo_portfolio/static/css/main.7609dc52.css.map",
-    "main.69158fbd.js.map": "/clarkorcullo_portfolio/static/js/main.69158fbd.js.map"
+    "main.15a8e96e.js.map": "/clarkorcullo_portfolio/static/js/main.15a8e96e.js.map"
   },
   "entrypoints": [
     "static/css/main.7609dc52.css",
-    "static/js/main.69158fbd.js"
+    "static/js/main.15a8e96e.js"
   ]
 }
